@@ -1,2 +1,2 @@
-# learning-opencv
-This project helps you to learn cv.
+MyStudyNote.
+
