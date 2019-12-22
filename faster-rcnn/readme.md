@@ -22,7 +22,7 @@ python3.5 tensorflow1.3 cuda=8 cudnn=6
 可调整部分：
 1.使用不同的预训练模型在，.\data\imagenet_weights下修改
 2.超参数调整：在Faster-RCNN-TensorFlow-Python3.5-master\lib\config文件夹里的config.py修改
-3.自己的数据集制作：使用labelimg工具和划分训练集，测试集，验证集的Creat_FRCNN_DataSet工具
+3.自己的数据集制作：使用labelimg工具和划分训练集，测试集，验证集的Creat_FRCNN_DataSet工具（https://github.com/ruyiweicas/Creat_FRCNN_DataSet）                   
 
 当前可优化的：
 1.使用其他预训练模型进行测试
